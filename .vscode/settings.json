@@ -1,0 +1,8 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d0d9e42-708a-4f3d-97f3-5a70616829a2/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Appdeploy-slotgame"
+}
