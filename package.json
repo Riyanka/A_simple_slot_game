@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Simple slot game with a client and a server",
   "scripts": {
-    "start": "ts-node server/index.js",
+    "start": "node server/index.js",
     "build": "tsc",
-    "dev": "nodemon --exec ts-node server/index.js"
+    "dev": "nodemon --exec node server/index.js"
   },
   "author": "bakshiriyanka@gmail.com",
   "dependencies": {
